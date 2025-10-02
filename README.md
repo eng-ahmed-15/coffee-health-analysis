@@ -114,4 +114,3 @@ print("Predicted Health Issue:", prediction)
 This project is open-source and provided for educational and research purposes. Feel free to modify and expand it with appropriate attribution.
 
 ---
-```
